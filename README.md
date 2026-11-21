@@ -1,4 +1,4 @@
-h1 align="center">Hi, I'm Fatiha Izzaty 👋</h1>
+<h1 align="center">Hi, I'm Fatiha Izzaty 👋</h1>
 <p align="center">
   2nd Year in Bachelor of Artificial Intelligence at Universiti Teknologi Malaysia (UTM)
 </p>
